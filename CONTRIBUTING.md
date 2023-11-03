@@ -41,6 +41,6 @@ Unsure where to begin contributing to Peanut Protocol? You can start by looking 
 
 ## Questions?
 
-Join our [Discord](link-to-discord) or [Forum](link-to-forum) and ask there. We're happy to help!
+Join our [Discord]([link-to-discord(https://discord.gg/kVZqXDkrq7)) or ask there. We're happy to help!
 
-Peanut
+Squirrel Labs Ltd
