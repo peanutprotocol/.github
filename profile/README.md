@@ -2,7 +2,7 @@
 
 ![Peanut Protocol Logo](banner.jpg)
 
-## Making Token Transfers super easy
+## Making Token Transfers 100% nuts
 
 Peanut is a protocol to transfer tokens using URLs. Peanut Protocol uses secret-protected vault smart contracts. The sender deposits tokens to the vault and sends the URL to the receiver. The URL contains a secret, allowing the receiver to withdraw the funds. 
 
@@ -31,16 +31,13 @@ We thrive on community contributions and are open to pull requests. We welcome a
 - Write clear, commented code and ensure it comes with tests.
 
 ### For Non-Coders:
-- Update documentation for clarity or completeness.
 - Participate in discussions to suggest features or improvements.
 - Help with comarketing and bd efforts.
+- Update documentation for clarity or completeness (get in touch on Discord)
 - Engage with us on social media and spread the word about Peanut Protocol.
 
-For detailed information on our projects:
-- [Smart Contracts Repository](link-to-smart-contracts-repo)
-- [SDK Repository](link-to-sdk-repo)
-- [API Repository](link-to-api-repo)
-- [UI Repository](link-to-ui-repo)
+# Retroactive fudning
+We're now experimenting with retroactiv funding for contributions. We've never done it properly before but we've had a few feature bounties and a few bug bounties. We'd love to be even more open.
 
 ## Contributing to Peanut
 We believe in collaboration and open-source. If you're interested in contributing to the Peanut Protocol, check out our [Contribution Guidelines](link-to-contribution-guidelines).
