@@ -23,21 +23,21 @@ Don't deal with wallet addresses and chain preferences, just send a link. You ca
 With Peanut, that's all it takes to move digital assets securely.
 
 ## How You Can Contribute
-We thrive on community contributions and are open to pull requests. We welcome any code and non-code contributions. Here's how you can contribute:
+Join our nutty community. We are open to pull requests and non-code contributions. Here's how you can contribute:
 
 ### For Coders:
-- Check out our repositories, pick an issue labeled 'help wanted' or 'good first issue', and start coding!
-- Adhere to the coding standards and guidelines provided in our `CONTRIBUTING.md`.
-- Write clear, commented code and ensure it comes with tests.
+- Check out our repos, sort by issue tags and find something that's easy to get started on, and start coding!
+- refer to guidelines in `CONTRIBUTING.md`.
+- write clear, commented code and ensure it comes with tests
 
 ### For Non-Coders:
-- Participate in discussions to suggest features or improvements.
-- Help with comarketing and bd efforts.
-- Update documentation for clarity or completeness (get in touch on Discord)
-- Engage with us on social media and spread the word about Peanut Protocol.
+- discuss and suggest features and improvements
+- help with marketing and bd
+- update docs (get in touch on Discord to help)
+- post memes on socials
 
 # Retroactive fudning
 We're now experimenting with retroactiv funding for contributions. We've never done it properly before but we've had a few feature bounties and a few bug bounties. We'd love to be even more open.
 
 ## Contributing to Peanut
-We believe in collaboration and open-source. If you're interested in contributing to the Peanut Protocol, check out our [Contribution Guidelines](link-to-contribution-guidelines).
+We welcome contributions. Can have you spotted the typos above? Maybe they can be fixed and this comment be removed? :)
