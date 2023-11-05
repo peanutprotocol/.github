@@ -9,7 +9,6 @@ Peanut is a protocol to transfer tokens using URLs. Peanut Protocol uses secret-
 ## Our Repos
 - [Smart Contracts Repository](https://github.com/peanutprotocol/peanut-contracts)
 - [SDK Repository](https://github.com/peanutprotocol/peanut-sdk)
-- [API Repository](https://github.com/peanutprotocol/peanut-api)
 - [UI Repository](https://github.com/peanutprotocol/peanut-ui)
 
 ## How It Works
