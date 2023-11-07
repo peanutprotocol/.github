@@ -27,7 +27,7 @@ We thrive on community contributions and are open to pull requests. We welcome a
 
 ### For Coders:
 - Check out our repositories, pick an issue labeled 'help wanted' or 'good first issue', and start coding!
-- Adhere to the coding standards and guidelines provided in our [CONTRIBUTING.md](CONTRIBUTING.md)
+- Adhere to the coding standards and guidelines provided in our [CONTRIBUTING.md](profile/CONTRIBUTING.md)
 - Write clear, commented code and ensure it comes with tests.
 
 ### For Non-Coders:
