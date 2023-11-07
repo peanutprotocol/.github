@@ -9,6 +9,7 @@ Peanut is a protocol to transfer tokens using URLs. Peanut Protocol uses secret-
 ## Our Repos
 - [Smart Contracts Repository](https://github.com/peanutprotocol/peanut-contracts)
 - [SDK Repository](https://github.com/peanutprotocol/peanut-sdk)
+- [API Repository](https://github.com/peanutprotocol/peanut-api)
 - [UI Repository](https://github.com/peanutprotocol/peanut-ui)
 
 ## How It Works
@@ -22,21 +23,21 @@ Don't deal with wallet addresses and chain preferences, just send a link. You ca
 With Peanut, that's all it takes to move digital assets securely.
 
 ## How You Can Contribute
-Join our nutty community. We are open to pull requests and non-code contributions. Here's how you can contribute:
+We thrive on community contributions and are open to pull requests. We welcome any code and non-code contributions. Here's how you can contribute:
 
 ### For Coders:
-- Check out our repos, sort by issue tags and find something that's easy to get started on, and start coding!
-- refer to guidelines in `CONTRIBUTING.md`.
-- write clear, commented code and ensure it comes with tests
+- Check out our repositories, pick an issue labeled 'help wanted' or 'good first issue', and start coding!
+- Adhere to the coding standards and guidelines provided in our [CONTRIBUTING.md](CONTRIBUTING.md)
+- Write clear, commented code and ensure it comes with tests.
 
 ### For Non-Coders:
-- discuss and suggest features and improvements
-- help with marketing and bd
-- update docs (get in touch on Discord to help)
-- post memes on socials
+- Participate in discussions to suggest features or improvements.
+- Help with comarketing and bd efforts.
+- Update documentation for clarity or completeness (get in touch on Discord https://discord.gg/kVZqXDkrq7 )
+- Engage with us on social media and spread the word about Peanut Protocol.
 
 # Retroactive fudning
 We're now experimenting with retroactiv funding for contributions. We've never done it properly before but we've had a few feature bounties and a few bug bounties. We'd love to be even more open.
 
 ## Contributing to Peanut
-We welcome contributions. Can have you spotted the typos above? Maybe they can be fixed and this comment be removed? :)
+We believe in collaboration and open-source. If you're interested in contributing to the Peanut Protocol, check out our [Contribution Guidelines](CONTRIBUTING.md).
