@@ -3,6 +3,8 @@
 
 ![Peanut Protocol Logo](banner.jpg)
 
+[Now Hiring!](https://peanutprotocol.notion.site/TS-Fullstack-Nut-93f621339f744c9b8054a8140d2c06ea?pvs=74)
+
 ## Making Token Transfers 100% nuts
 
 Peanut is a protocol to transfer tokens using URLs. Peanut Protocol uses secret-protected vault smart contracts. The sender deposits tokens to the vault and sends the URL to the receiver. The URL contains a secret, allowing the receiver to withdraw the funds. 
