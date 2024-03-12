@@ -1,3 +1,4 @@
+[Now Hiring!](https://peanutprotocol.notion.site/TS-Fullstack-Nut-93f621339f744c9b8054a8140d2c06ea?pvs=74)
 # Welcome to ☺ Peanut Protocol ☺
 
 ![Peanut Protocol Logo](banner.jpg)
@@ -36,7 +37,7 @@ We thrive on community contributions and are open to pull requests. We welcome a
 - Update documentation for clarity or completeness (get in touch on Discord https://discord.gg/kVZqXDkrq7 )
 - Engage with us on social media and spread the word about Peanut Protocol.
 
-# Retroactive fudning
+# Retroactive funding
 We're now experimenting with retroactiv funding for contributions. We've never done it properly before but we've had a few feature bounties and a few bug bounties. We'd love to be even more open.
 
 ## Contributing to Peanut
