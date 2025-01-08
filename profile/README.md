@@ -1,7 +1,7 @@
 [Now Hiring!](https://peanutprotocol.notion.site/TS-Fullstack-Nut-93f621339f744c9b8054a8140d2c06ea?pvs=74)
 # Welcome to ☺ Peanut Protocol ☺
 
-![Peanut Protocol Logo](banner.ong)
+![Peanut Protocol Logo](banner.png)
 
 [Now Hiring!](https://peanutprotocol.notion.site/TS-Fullstack-Nut-93f621339f744c9b8054a8140d2c06ea?pvs=74)
 
